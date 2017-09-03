@@ -6,3 +6,6 @@ js冒泡排序详解
 
 vue-router 实现分析
 [博客地址](http://cnodejs.org/topic/58d680c903d476b42d34c72b)
+
+【源码拾遗】从vue-router看前端路由的两种实现
+[博客地址](https://zhuanlan.zhihu.com/p/27588422)
