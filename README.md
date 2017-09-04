@@ -9,3 +9,6 @@ vue-router 实现分析
 
 【源码拾遗】从vue-router看前端路由的两种实现
 [博客地址](https://zhuanlan.zhihu.com/p/27588422)
+
+vue-router源码分析-整体流程
+[博客地址](https://github.com/DDFE/DDFE-blog/issues/9)
