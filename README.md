@@ -27,3 +27,6 @@ Vue 2.0 的 virtual-dom 实现简析
 
 Flexbox布局的正确使用姿势
 [博客地址](https://segmentfault.com/a/1190000009932882)
+
+vuex官方文档
+[博客地址](https://vuex.vuejs.org/zh-cn)
