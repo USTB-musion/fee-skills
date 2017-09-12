@@ -31,5 +31,8 @@ Flexbox布局的正确使用姿势
 vuex官方文档
 [博客地址](https://vuex.vuejs.org/zh-cn)
 
-vue中$nextTick()作用
-[博客地址](http://blog.csdn.net/shuidinaozhongyan/article/details/72630573)
+Javascript设计模式详解
+[博客地址](http://www.cnblogs.com/tugenhua0707/p/5198407.html)
+
+常用的Javascript设计模式
+[博客地址](http://blog.jobbole.com/29454/)
