@@ -36,3 +36,6 @@ Javascript设计模式详解
 
 常用的Javascript设计模式
 [博客地址](http://blog.jobbole.com/29454/)
+
+前端面试指南-知乎专栏
+[博客地址](https://zhuanlan.zhihu.com/p/25859524)
