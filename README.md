@@ -39,3 +39,12 @@ Javascript设计模式详解
 
 前端面试指南-知乎专栏
 [博客地址](https://zhuanlan.zhihu.com/p/25859524)
+
+跨域资源共享 CORS 详解
+[博客地址](http://www.ruanyifeng.com/blog/2016/04/cors.html)
+
+聊聊Ajax那些事
+[博客地址](https://segmentfault.com/a/1190000006669043)
+
+WebSocket 教程
+[博客地址](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
