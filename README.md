@@ -48,3 +48,6 @@ Javascript设计模式详解
 
 WebSocket 教程
 [博客地址](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
+
+JSONP跨域的原理解析
+[博客地址](http://www.nowamagic.net/librarys/veda/detail/224)
