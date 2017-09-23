@@ -51,3 +51,9 @@ WebSocket 教程
 
 JSONP跨域的原理解析
 [博客地址](http://www.nowamagic.net/librarys/veda/detail/224)
+
+promise学习笔记
+[博客地址](https://mengera88.github.io/2017/05/15/promise%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
+
+30分钟，让你彻底明白Promise原理
+[博客地址](https://segmentfault.com/a/1190000009478377)
