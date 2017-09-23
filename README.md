@@ -60,3 +60,6 @@ promise学习笔记
 
 [数据结构] 数组与链表的优缺点和区别
 [博客地址](http://blog.csdn.net/snow_wu/article/details/53172721)
+
+HTTP与HTTPS的区别
+[博客地址]http://www.cnblogs.com/wqhwe/p/5407468.html)
