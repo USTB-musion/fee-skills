@@ -57,3 +57,6 @@ promise学习笔记
 
 30分钟，让你彻底明白Promise原理
 [博客地址](https://segmentfault.com/a/1190000009478377)
+
+[数据结构] 数组与链表的优缺点和区别
+[博客地址](http://blog.csdn.net/snow_wu/article/details/53172721)
