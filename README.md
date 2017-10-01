@@ -62,4 +62,7 @@ promise学习笔记
 [博客地址](http://blog.csdn.net/snow_wu/article/details/53172721)
 
 HTTP与HTTPS的区别
-[博客地址]http://www.cnblogs.com/wqhwe/p/5407468.html)
+[博客地址](http://www.cnblogs.com/wqhwe/p/5407468.html)
+
+ES6-阮一峰
+[博客地址](http://es6.ruanyifeng.com/)
