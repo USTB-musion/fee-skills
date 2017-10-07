@@ -66,3 +66,9 @@ HTTP与HTTPS的区别
 
 ES6-阮一峰
 [博客地址](http://es6.ruanyifeng.com/)
+
+我理解的关于Vue.nextTick()的正确使用
+[博客地址](https://segmentfault.com/a/1190000008570874)
+
+关于Vue实例的生命周期created和mounted的区别
+[博客地址](http://www.zhimengzhe.com/Javascriptjiaocheng/236707.html)
