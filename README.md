@@ -72,3 +72,6 @@ ES6-阮一峰
 
 关于Vue实例的生命周期created和mounted的区别
 [博客地址](http://www.zhimengzhe.com/Javascriptjiaocheng/236707.html)
+
+快速排序（Quicksort）的Javascript实现
+[博客地址](http://www.ruanyifeng.com/blog/2011/04/quicksort_in_javascript.html)
