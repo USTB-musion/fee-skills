@@ -75,3 +75,9 @@ ES6-阮一峰
 
 快速排序（Quicksort）的Javascript实现
 [博客地址](http://www.ruanyifeng.com/blog/2011/04/quicksort_in_javascript.html)
+
+async 函数的含义和用法
+[博客地址](http://www.ruanyifeng.com/blog/2015/05/async.html)
+
+Generator 函数的含义与用法
+[博客地址](http://www.ruanyifeng.com/blog/2015/04/generator.html)
