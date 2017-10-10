@@ -81,3 +81,9 @@ async 函数的含义和用法
 
 Generator 函数的含义与用法
 [博客地址](http://www.ruanyifeng.com/blog/2015/04/generator.html)
+
+RESTful API 设计指南
+[博客地址](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
+
+Javascript异步编程的4种方法
+[博客地址](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
