@@ -87,3 +87,6 @@ RESTful API 设计指南
 
 Javascript异步编程的4种方法
 [博客地址](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
+
+ vue2.0父子组件以及非父子组件如何通信
+[博客地址](http://blog.csdn.net/mr_fzz/article/details/54636833)
