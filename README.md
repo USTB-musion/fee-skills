@@ -96,3 +96,6 @@ Javascript异步编程的4种方法
 
 面试分享：一年经验初探阿里巴巴前端社招
 [博客地址](https://juejin.im/entry/59e94f2351882578dd2e58d9)
+
+这10道javascript笔试题你都会么
+[博客地址](http://web.jobbole.com/82251/)
