@@ -112,3 +112,8 @@ React 入门实例教程
 
 Koa 框架教程
 [博客地址](http://www.ruanyifeng.com/blog/2017/08/koa.html)
+
+# 构建工具相关
+
+Babel 入门教程
+[博客地址](http://www.ruanyifeng.com/blog/2016/01/babel.html)
