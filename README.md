@@ -111,6 +111,15 @@ React 入门实例教程
 React Router 使用教程
 [博客地址](http://www.ruanyifeng.com/blog/2016/05/react_router.html?utm_source=tool.lu)
 
+Redux 入门教程（一）：基本用法
+[博客地址](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
+
+Redux 入门教程（二）：中间件与异步操作
+[博客地址](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_two_async_operations.html)
+
+Redux 入门教程（三）：React-Redux 的用法
+[博客地址](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_three_react-redux.html)
+
 # Nodejs相关
 
 Koa 框架教程
