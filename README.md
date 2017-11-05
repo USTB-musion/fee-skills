@@ -120,6 +120,9 @@ Redux 入门教程（二）：中间件与异步操作
 Redux 入门教程（三）：React-Redux 的用法
 [博客地址](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_three_react-redux.html)
 
+深入浅出 - Redux
+[博客地址](https://www.w3ctech.com/topic/1561)
+
 # Nodejs相关
 
 Koa 框架教程
