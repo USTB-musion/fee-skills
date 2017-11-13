@@ -128,6 +128,9 @@ Redux 入门教程（三）：React-Redux 的用法
 深入浅出 - Redux
 [博客地址](https://www.w3ctech.com/topic/1561)
 
+redux-API 文档
+[博客地址](http://cn.redux.js.org//docs/api/index.html)
+
 # Nodejs相关
 
 Koa 框架教程
