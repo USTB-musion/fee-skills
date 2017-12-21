@@ -134,6 +134,9 @@ Redux 入门教程（三）：React-Redux 的用法
 redux-API 文档
 [博客地址](http://cn.redux.js.org//docs/api/index.html)
 
+React 技术栈
+[博客地址](https://github.com/ruanyf/jstraining/blob/master/docs/react.md)
+
 # Nodejs相关
 
 Koa 框架教程
