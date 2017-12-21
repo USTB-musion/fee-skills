@@ -55,9 +55,6 @@ ES6-阮一峰
 我理解的关于Vue.nextTick()的正确使用
 [博客地址](https://segmentfault.com/a/1190000008570874)
 
-关于Vue实例的生命周期created和mounted的区别
-[博客地址](http://www.zhimengzhe.com/Javascriptjiaocheng/236707.html)
-
 快速排序（Quicksort）的Javascript实现
 [博客地址](http://www.ruanyifeng.com/blog/2011/04/quicksort_in_javascript.html)
 
@@ -81,6 +78,9 @@ Javascript异步编程的4种方法
 
 这10道javascript笔试题你都会么
 [博客地址](http://web.jobbole.com/82251/)
+
+前端开发的历史和趋势
+[博客地址](https://github.com/ruanyf/jstraining/blob/master/docs/history.md)
 
 # Vue相关
 
@@ -107,6 +107,9 @@ Vue 2.0 的 virtual-dom 实现简析
 
  vue2.0父子组件以及非父子组件如何通信
 [博客地址](http://blog.csdn.net/mr_fzz/article/details/54636833)
+
+关于Vue实例的生命周期created和mounted的区别
+[博客地址](http://www.zhimengzhe.com/Javascriptjiaocheng/236707.html)
 
 # React相关
 
