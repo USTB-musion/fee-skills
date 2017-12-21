@@ -142,6 +142,9 @@ redux-API 文档
 React 技术栈
 [博客地址](https://github.com/ruanyf/jstraining/blob/master/docs/react.md)
 
+ 使用 create-react-app 构建 react应用程序 （react-scripts）
+[博客地址](http://blog.csdn.net/github_squad/article/details/57452333)
+
 # Nodejs相关
 
 Koa 框架教程
