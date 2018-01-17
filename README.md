@@ -116,6 +116,9 @@ Vue 2.0 的 virtual-dom 实现简析
 关于Vue实例的生命周期created和mounted的区别
 [博客地址](http://www.zhimengzhe.com/Javascriptjiaocheng/236707.html)
 
+ vue2.0之多页面的开发
+[博客地址](http://blog.csdn.net/Tank_in_the_street/article/details/73732801)
+
 # React相关
 
 React 入门实例教程
