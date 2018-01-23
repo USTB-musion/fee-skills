@@ -166,3 +166,8 @@ json在线代码格式化
 
 JSFiddle
 [博客地址](https://jsfiddle.net/)
+
+# 其他
+
+重构 - 代码整洁之道
+[博客地址](https://juejin.im/post/5a5b2a5c6fb9a01cbc6e59f9)
