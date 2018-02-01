@@ -119,6 +119,9 @@ Vue 2.0 的 virtual-dom 实现简析
  vue2.0之多页面的开发
 [博客地址](http://blog.csdn.net/Tank_in_the_street/article/details/73732801)
 
+Vue原理解析之Virtual Dom
+[博客地址](https://segmentfault.com/a/1190000008291645)
+
 # React相关
 
 React 入门实例教程
