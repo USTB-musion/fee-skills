@@ -180,3 +180,6 @@ JSFiddle
 
 细数国内外的前端大牛
 [博客地址](https://juejin.im/post/5a9224c6f265da4e710f7786)
+
+【开源专访】Sea.js创始人玉伯的前端开发之路
+[博客地址](http://www.csdn.net/article/2013-09-03/2816801-front-end-development-seajs-framework/3)
