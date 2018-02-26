@@ -13,9 +13,6 @@ JavaScript深入系列15篇正式完结！
 Flexbox布局的正确使用姿势
 [博客地址](https://segmentfault.com/a/1190000009932882)
 
-vuex官方文档
-[博客地址](https://vuex.vuejs.org/zh-cn)
-
 Javascript设计模式详解
 [博客地址](http://www.cnblogs.com/tugenhua0707/p/5198407.html)
 
@@ -92,6 +89,9 @@ Javascript异步编程的4种方法
 CSS 框架 Bulma 教程
 [博客地址](http://www.ruanyifeng.com/blog/2017/10/bulma.html)
 
+vuex官方文档
+[博客地址](https://vuex.vuejs.org/zh-cn)
+
 vue-router 实现分析
 [博客地址](http://cnodejs.org/topic/58d680c903d476b42d34c72b)
 
@@ -121,6 +121,9 @@ Vue 2.0 的 virtual-dom 实现简析
 
 Vue原理解析之Virtual Dom
 [博客地址](https://segmentfault.com/a/1190000008291645)
+
+剖析 Vue.js 内部运行机制
+[博客地址](https://juejin.im/book/5a36661851882538e2259c0f)
 
 # React相关
 
