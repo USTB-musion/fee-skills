@@ -49,6 +49,9 @@ HTTP与HTTPS的区别
 ES6-阮一峰
 [博客地址](http://es6.ruanyifeng.com/)
 
+函数柯里化
+[博客地址](https://juejin.im/post/5a96481d6fb9a0633f0e4cc1)
+
 我理解的关于Vue.nextTick()的正确使用
 [博客地址](https://segmentfault.com/a/1190000008570874)
 
