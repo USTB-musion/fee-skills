@@ -157,6 +157,9 @@ React 技术栈
  使用 create-react-app 构建 react应用程序 （react-scripts）
 [博客地址](http://blog.csdn.net/github_squad/article/details/57452333)
 
+《React源码解析》系列完结！
+[博客地址](https://juejin.im/post/5a84682ef265da4e83266cc4)
+
 # Nodejs相关
 
 Koa 框架教程
