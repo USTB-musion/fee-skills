@@ -189,3 +189,6 @@ JSFiddle
 
 【开源专访】Sea.js创始人玉伯的前端开发之路
 [博客地址](http://www.csdn.net/article/2013-09-03/2816801-front-end-development-seajs-framework/3)
+
+前端面试
+[博客地址](http://www.jackpu.com/nian-hou-fu-xi-zhi-nan/)
