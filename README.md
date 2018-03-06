@@ -128,6 +128,9 @@ Vue原理解析之Virtual Dom
 剖析 Vue.js 内部运行机制
 [博客地址](https://juejin.im/book/5a36661851882538e2259c0f)
 
+Vue + TypeScript 新项目起手式
+[博客地址](https://juejin.im/post/59f29d28518825549f7260b6)
+
 # React相关
 
 React 入门实例教程
