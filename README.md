@@ -198,3 +198,6 @@ JSFiddle
 
 奇舞前端特训营
 [博客地址](https://t.75team.com/)
+
+AngularJS Directive 隔离 Scope 数据交互
+[博客地址](https://blog.coding.net/blog/angularjs-directive-isolate-scope?type=early)
