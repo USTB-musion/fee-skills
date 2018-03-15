@@ -201,3 +201,6 @@ JSFiddle
 
 AngularJS Directive 隔离 Scope 数据交互
 [博客地址](https://blog.coding.net/blog/angularjs-directive-isolate-scope?type=early)
+
+Nodejs项目部署阿里云完整流程
+[博客地址](http://blog.csdn.net/u013263917/article/details/79037770)
