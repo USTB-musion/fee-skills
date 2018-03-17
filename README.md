@@ -168,6 +168,9 @@ React 技术栈
 Koa 框架教程
 [博客地址](http://www.ruanyifeng.com/blog/2017/08/koa.html)
 
+Mongoose快速入门
+[博客地址](http://cnodejs.org/topic/595d9ad5a4de5625080fe118)
+
 # 构建工具相关
 
 Babel 入门教程
