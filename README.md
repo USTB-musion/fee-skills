@@ -213,3 +213,6 @@ Nodejs项目部署阿里云完整流程
 
 从输入URL到页面加载的过程？如何由一道题完善自己的前端知识体系！
 [博客地址](https://juejin.im/post/5aa5cb846fb9a028e25d2fb1?utm_medium=fe&utm_source=weixinqun&from=timeline&isappinstalled=0)
+
+迷你MVVM框架 avalonjs 入门教程
+[博客地址](http://www.cnblogs.com/rubylouvre/p/3181291.html#top9)
