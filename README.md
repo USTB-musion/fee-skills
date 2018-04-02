@@ -131,6 +131,8 @@ Vue原理解析之Virtual Dom
 Vue + TypeScript 新项目起手式
 [博客地址](https://juejin.im/post/59f29d28518825549f7260b6)
 
+漫谈Vue组件库开发
+[博客地址](http://jdc.jd.com/archives/212167)
 # React相关
 
 React 入门实例教程
