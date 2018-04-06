@@ -137,6 +137,9 @@ Vue + TypeScript 新项目起手式
 Vue.js 源码学习笔记
 [博客地址](http://jiongks.name/blog/vue-code-review/)
 
+Vue 2.0源码学习
+[博客地址](https://segmentfault.com/a/1190000007484936)
+
 # React相关
 
 React 入门实例教程
