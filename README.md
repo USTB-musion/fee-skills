@@ -133,6 +133,10 @@ Vue + TypeScript 新项目起手式
 
 漫谈Vue组件库开发
 [博客地址](http://jdc.jd.com/archives/212167)
+
+Vue.js 源码学习笔记
+[博客地址](http://jiongks.name/blog/vue-code-review/)
+
 # React相关
 
 React 入门实例教程
