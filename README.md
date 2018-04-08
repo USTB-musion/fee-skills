@@ -231,3 +231,9 @@ JDC | 京东设计中心
 
 数据结构和算法目录
 [博客地址](https://www.jianshu.com/p/38853c044156)
+
+vue_admin
+[博客地址](https://guanweitao.github.io/vue_admin/dist/#/login)
+
+WZ后台管理框架
+[博客地址](http://herozhou.coding.me/vue-framework-wz/#/dashboard)
