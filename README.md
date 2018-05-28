@@ -240,3 +240,6 @@ vue_admin
 
 WZ后台管理框架
 [博客地址](http://herozhou.coding.me/vue-framework-wz/#/dashboard)
+
+五月前端知识集锦（每月不可错过的文章集锦）
+[博客地址](https://juejin.im/post/5b0b5712f265da0dc8232bb4)
