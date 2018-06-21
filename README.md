@@ -243,3 +243,6 @@ WZ后台管理框架
 
 五月前端知识集锦（每月不可错过的文章集锦）
 [博客地址](https://juejin.im/post/5b0b5712f265da0dc8232bb4)
+
+【译】用Flow编写更好的JavaScript代码
+[博客地址](https://blog.csdn.net/fen747042796/article/details/68945984)
