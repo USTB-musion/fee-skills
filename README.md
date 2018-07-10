@@ -143,6 +143,9 @@ Vue 2.0源码学习
 Vue 选项的规范化
 [博客地址](http://hcysun.me/vue-design/art/4vue-normalize.html)
 
+Vue.js 技术揭秘
+[博客地址](https://ustbhuangyi.github.io/vue-analysis/data-driven/)
+
 # React相关
 
 React 入门实例教程
