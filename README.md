@@ -146,6 +146,9 @@ Vue 选项的规范化
 Vue.js 技术揭秘
 [博客地址](https://ustbhuangyi.github.io/vue-analysis/data-driven/)
 
+Vue2.0教你当前选中鼠标移入移除加样式，实现显示隐藏
+[博客地址](http://www.mamicode.com/info-detail-2283677.html)
+
 # React相关
 
 React 入门实例教程
