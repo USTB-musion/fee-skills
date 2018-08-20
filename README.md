@@ -255,3 +255,9 @@ WZ后台管理框架
 
 【译】用Flow编写更好的JavaScript代码
 [博客地址](https://blog.csdn.net/fen747042796/article/details/68945984)
+
+用JS刷leetcode
+[博客地址](https://github.com/xiaoyu2er/leetcode-js)
+
+leetcode-js
+[博客地址](https://github.com/paopao2/leetcode-js)
