@@ -1,6 +1,14 @@
 # fee-skills
 整理前端方面的重要知识，包括但不局限于html，css，js，vue，react，angular，node
 
+## 自己写的文章
+Vue.js的响应式系统原理
+[博客地址](https://juejin.im/post/5b82b174518825431079d473)
+
+Vue.js源码角度：剖析模版和数据渲染成最终的DOM的过程
+[博客地址](https://juejin.im/post/5b80e60de51d4557b85fc8fc)
+
+## JS
 js冒泡排序详解
 [博客地址](http://www.cnblogs.com/zhouliang/p/6638010.html)
 
