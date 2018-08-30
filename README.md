@@ -8,6 +8,9 @@ Vue.js的响应式系统原理
 Vue.js源码角度：剖析模版和数据渲染成最终的DOM的过程
 [博客地址](https://juejin.im/post/5b80e60de51d4557b85fc8fc)
 
+Vue.js异步更新及nextTick
+[博客地址](https://juejin.im/post/5b85b3326fb9a019fc76ecee)
+
 ## JS
 js冒泡排序详解
 [博客地址](http://www.cnblogs.com/zhouliang/p/6638010.html)
