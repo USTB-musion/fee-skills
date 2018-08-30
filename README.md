@@ -275,3 +275,6 @@ leetcode-js
 
 leetcode的所有题目
 [博客地址](https://leetcode.com/problemset/all/)
+
+自动将js生成ast
+[博客地址](http://esprima.org/demo/parse.html)
