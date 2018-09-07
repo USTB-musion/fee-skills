@@ -278,3 +278,6 @@ leetcode的所有题目
 
 自动将js生成ast
 [博客地址](http://esprima.org/demo/parse.html)
+
+HTML5标准
+[博客地址](https://dev.w3.org/html5/html-author/#syntactic-overview)
