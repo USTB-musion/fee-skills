@@ -281,3 +281,6 @@ leetcode的所有题目
 
 HTML5标准
 [博客地址](https://dev.w3.org/html5/html-author/#syntactic-overview)
+
+持续集成服务 Travis CI 教程
+[博客地址](http://www.ruanyifeng.com/blog/2017/12/travis_ci_tutorial.html)
