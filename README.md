@@ -284,3 +284,6 @@ HTML5标准
 
 持续集成服务 Travis CI 教程
 [博客地址](http://www.ruanyifeng.com/blog/2017/12/travis_ci_tutorial.html)
+
+使用原理视角看 Git
+[博客地址](https://cnodejs.org/topic/575cec91dc4ef1e71a464189)
