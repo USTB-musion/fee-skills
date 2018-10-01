@@ -11,7 +11,7 @@ Vue.js源码角度：剖析模版和数据渲染成最终的DOM的过程
 Vue.js异步更新及nextTick
 [博客地址](https://juejin.im/post/5b85b3326fb9a019fc76ecee)
 
-## 个人（控制在42个以内）
+## 前端领域大🐂
 
 0. [阮一峰的网络日志](http://www.ruanyifeng.com/blog/javascript/)（蚂蚁金服）
     + [《读懂 ECMAScript 规格》](http://www.ruanyifeng.com/blog/2015/11/ecmascript-specification.html)
@@ -72,7 +72,7 @@ Vue.js异步更新及nextTick
 
     
 
-## 团队（控制在16个以内）
+## 前端领域-知名团队
 
 大部分团队博客，都有拼凑感，质量良莠不齐，所以还是推荐大家关注个人博客。
 
