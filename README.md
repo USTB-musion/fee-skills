@@ -1,5 +1,5 @@
 # fee-skills
-整理前端方面的重要知识，包括但不局限于html，css，js，vue，react，angular，node
+整理前端方面的重要知识，包括但不局限于html，css，js，vue，react，angular，node，webpack，rollup
 
 ## 自己写的文章
 Vue.js的响应式系统原理
