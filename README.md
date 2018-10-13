@@ -287,6 +287,9 @@ Mongoose快速入门
 Express官方文档
 [博客地址](http://www.expressjs.com.cn/guide/)
 
+D2-蚂蚁财富的BFF实践
+[博客地址](https://os.alipayobjects.com/rmsportal/WtUmBLJSmqtDHkvJzuzM.pdf)
+
 # 构建工具相关
 
 rollup.js 中文文档
