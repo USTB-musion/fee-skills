@@ -374,3 +374,6 @@ HTML5标准
 
 webpack中文文档
 [博客地址](https://www.webpackjs.com/concepts/)
+
+大前端架构思考与选择
+[博客地址](https://www.jianshu.com/p/bb8ac7db7e2d?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
