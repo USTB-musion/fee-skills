@@ -11,6 +11,9 @@ Vue.js源码角度：剖析模版和数据渲染成最终的DOM的过程
 Vue.js异步更新及nextTick
 [博客地址](https://juejin.im/post/5b85b3326fb9a019fc76ecee)
 
+Vue.js的computed和watch是如何工作的？
+[博客地址](https://juejin.im/post/5b87f13bf265da436479f3c1)
+
 ## 前端领域大🐂
 
 0. [阮一峰的网络日志](http://www.ruanyifeng.com/blog/javascript/)（蚂蚁金服）
