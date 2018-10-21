@@ -249,9 +249,6 @@ Vue2.0教你当前选中鼠标移入移除加样式，实现显示隐藏
 
 # React相关
 
-React 入门实例教程
-[博客地址](http://www.ruanyifeng.com/blog/2015/03/react.html)
-
 React Router 使用教程
 [博客地址](http://www.ruanyifeng.com/blog/2016/05/react_router.html?utm_source=tool.lu)
 
@@ -273,8 +270,11 @@ redux-API 文档
 React 技术栈
 [博客地址](https://github.com/ruanyf/jstraining/blob/master/docs/react.md)
 
- 使用 create-react-app 构建 react应用程序 （react-scripts）
-[博客地址](http://blog.csdn.net/github_squad/article/details/57452333)
+浅谈前端状态管理（上）
+[博客地址](https://zhuanlan.zhihu.com/p/25800767)
+
+浅谈前端状态管理（下）
+[博客地址](https://zhuanlan.zhihu.com/p/25908872)
 
 《React源码解析》系列完结！
 [博客地址](https://juejin.im/post/5a84682ef265da4e83266cc4)
