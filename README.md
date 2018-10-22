@@ -264,8 +264,8 @@ Redux 入门教程（三）：React-Redux 的用法
 深入浅出 - Redux
 [博客地址](https://www.w3ctech.com/topic/1561)
 
-redux-API 文档
-[博客地址](http://cn.redux.js.org//docs/api/index.html)
+彻彻底底教会你使用Redux-saga(包含样例代码)
+[博客地址](https://segmentfault.com/a/1190000015583055)
 
 React 技术栈
 [博客地址](https://github.com/ruanyf/jstraining/blob/master/docs/react.md)
