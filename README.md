@@ -267,6 +267,9 @@ Redux 入门教程（三）：React-Redux 的用法
 彻彻底底教会你使用Redux-saga(包含样例代码)
 [博客地址](https://segmentfault.com/a/1190000015583055)
 
+React小书
+[博客地址](http://huziketang.mangojuice.top/books/react/)
+
 React 技术栈
 [博客地址](https://github.com/ruanyf/jstraining/blob/master/docs/react.md)
 
