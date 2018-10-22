@@ -99,8 +99,8 @@ Vue.js的computed和watch是如何工作的？
 0. [360奇舞团](http://www.75team.com/) —— 今年更新了两篇
 
 ## JS
-js冒泡排序详解
-[博客地址](http://www.cnblogs.com/zhouliang/p/6638010.html)
+JS是单线程，你了解其运行机制吗？
+[博客地址](https://segmentfault.com/a/1190000015806981)
 
 JavaScript深入系列15篇正式完结！
 [博客地址](https://segmentfault.com/a/1190000009562674)
