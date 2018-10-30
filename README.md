@@ -147,8 +147,8 @@ promise学习笔记
 HTTP与HTTPS的区别
 [博客地址](http://www.cnblogs.com/wqhwe/p/5407468.html)
 
-ES6-阮一峰
-[博客地址](http://es6.ruanyifeng.com/)
+Web框架的架构模式探讨（JavaScript语言）
+[博客地址](https://75team.com/post/web-architecture-patterns-javascript)
 
 函数柯里化
 [博客地址](https://juejin.im/post/5a96481d6fb9a0633f0e4cc1)
