@@ -108,6 +108,9 @@ JS是单线程，你了解其运行机制吗？
 JavaScript深入系列15篇正式完结！
 [博客地址](https://segmentfault.com/a/1190000009562674)
 
+每个 JavaScript 工程师都应懂的33个概念
+[博客地址](https://github.com/stephentian/33-js-concepts)
+
 5分钟极速上手 CSS Grid
 [博客地址](https://zhuanlan.zhihu.com/p/29102270)
 
