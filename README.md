@@ -398,3 +398,6 @@ webpack中文文档
 
 前端必会的 Nginx入门视频教程(共11集)
 [博客地址](https://juejin.im/post/5bd7a6046fb9a05d2c43f8c7)
+
+如何优雅地上报前端监控日志
+[博客地址](http://www.aliued.com/?p=4172)
