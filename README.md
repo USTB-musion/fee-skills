@@ -404,3 +404,6 @@ webpack中文文档
 
 如何防止XSS攻击？
 [博客地址](https://tech.meituan.com/fe_security.html)
+
+如何防止CSRF攻击？
+[博客地址](https://juejin.im/post/5bc009996fb9a05d0a055192)
