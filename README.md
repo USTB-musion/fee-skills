@@ -421,3 +421,9 @@ webpack中文文档
 [博客地址](https://zhuanlan.zhihu.com/p/50597236)
 [博客地址](https://zhuanlan.zhihu.com/p/23305264)
 [博客地址](https://zhuanlan.zhihu.com/p/23305264)
+
+使用 window.performance 提供了一组精确的数据，经过简单的计算就能得出一些网页性能数据。
+[博客地址](http://www.alloyteam.com/2015/09/explore-performance/)
+
+Life of a Pixel：前端代码如何通过浏览器演化为屏幕显示的像素
+[博客地址](https://juejin.im/post/5b9f3fe7e51d450ea52f9e3a)
