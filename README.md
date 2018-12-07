@@ -14,6 +14,9 @@ Vue.js异步更新及nextTick
 Vue.js的computed和watch是如何工作的？
 [博客地址](https://juejin.im/post/5b87f13bf265da436479f3c1)
 
+Vue.js从Virtual DOM映射到真实DOM的过程
+[博客地址](https://juejin.im/post/5b86f6cc5188256fd44c0ce9)
+
 浅析前端状态管理
 [博客地址](https://juejin.im/post/5bd3262af265da0aa665085b)
 
