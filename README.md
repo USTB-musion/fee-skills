@@ -288,6 +288,9 @@ React 技术栈
 浅谈前端状态管理（下）
 [博客地址](https://zhuanlan.zhihu.com/p/25908872)
 
+从一次react异步setState引发的思考
+[博客地址](https://imweb.io/topic/5c0a8601611a25cc7bf1d7e6)
+
 《React源码解析》系列完结！
 [博客地址](https://juejin.im/post/5a84682ef265da4e83266cc4)
 
