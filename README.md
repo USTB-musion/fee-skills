@@ -17,6 +17,21 @@ Vue.js的computed和watch是如何工作的？
 Vue.js从Virtual DOM映射到真实DOM的过程
 [博客地址](https://juejin.im/post/5b86f6cc5188256fd44c0ce9)
 
+webpack插件机制之Tapable
+[博客地址](https://juejin.im/post/5c5d96a1e51d457fc0574181)
+
+webpack4.x 性能优化
+[博客地址](https://juejin.im/post/5c5a3a64f265da2d8532b606)
+
+实现react-router v4（上）
+[博客地址](https://juejin.im/post/5c3abebb51882525a67c55c2)
+
+AST in JS
+[博客地址](https://juejin.im/post/5c2714fb51882575f560503c)
+
+简易实现一个express
+[博客地址](https://juejin.im/post/5c25cfda6fb9a049c43dbcd7)
+
 浅析前端状态管理
 [博客地址](https://juejin.im/post/5bd3262af265da0aa665085b)
 
