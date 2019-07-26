@@ -10,6 +10,8 @@
 
 [webpack插件机制之Tapable](https://github.com/USTB-musion/fee-skills/issues/5)
 
+[webpack4.x 性能优化](https://github.com/USTB-musion/fee-skills/issues/6)
+
 Vue.js的响应式系统原理
 [博客地址](https://juejin.im/post/5b82b174518825431079d473)
 
