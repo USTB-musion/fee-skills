@@ -30,6 +30,8 @@
 
 [Vue.js异步更新及nextTick](https://github.com/USTB-musion/fee-skills/issues/15)
 
+[Vue.js的响应式系统原理](https://github.com/USTB-musion/fee-skills/issues/16)
+
 Vue.js的响应式系统原理
 [博客地址](https://juejin.im/post/5b82b174518825431079d473)
 
