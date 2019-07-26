@@ -8,6 +8,8 @@
 
 [前端面经分享 | 腾讯](https://github.com/USTB-musion/fee-skills/issues/4)
 
+[webpack插件机制之Tapable](https://github.com/USTB-musion/fee-skills/issues/5)
+
 Vue.js的响应式系统原理
 [博客地址](https://juejin.im/post/5b82b174518825431079d473)
 
