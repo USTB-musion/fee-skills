@@ -6,6 +6,8 @@
 
 [函数化的React Hooks](https://github.com/USTB-musion/fee-skills/issues/3)
 
+[前端面经分享 | 腾讯](https://github.com/USTB-musion/fee-skills/issues/4)
+
 Vue.js的响应式系统原理
 [博客地址](https://juejin.im/post/5b82b174518825431079d473)
 
