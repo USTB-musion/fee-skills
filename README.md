@@ -32,6 +32,8 @@
 
 [Vue.js的响应式系统原理](https://github.com/USTB-musion/fee-skills/issues/16)
 
+[Vue.js源码角度：剖析模版和数据渲染成最终的DOM的过程](https://github.com/USTB-musion/fee-skills/issues/17)
+
 Vue.js的响应式系统原理
 [博客地址](https://juejin.im/post/5b82b174518825431079d473)
 
