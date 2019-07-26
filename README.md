@@ -2,9 +2,9 @@
 整理前端方面的重要知识，包括但不局限于html，css，js，vue，react，angular，node，webpack，rollup
 
 ## 自己写的文章
-[Typescript结合React实践](https://github.com/USTB-musion/fee-skills/issues/2)
+- [Typescript结合React实践](https://github.com/USTB-musion/fee-skills/issues/2)
 
-[函数化的React Hooks](https://github.com/USTB-musion/fee-skills/issues/3)
+- [函数化的React Hooks](https://github.com/USTB-musion/fee-skills/issues/3)
 
 [前端面经分享 | 腾讯](https://github.com/USTB-musion/fee-skills/issues/4)
 
