@@ -20,6 +20,8 @@
 
 [JavaScript模块化原理浅析](https://github.com/USTB-musion/fee-skills/issues/10)
 
+[浅析前端状态管理](https://github.com/USTB-musion/fee-skills/issues/11)
+
 Vue.js的响应式系统原理
 [博客地址](https://juejin.im/post/5b82b174518825431079d473)
 
