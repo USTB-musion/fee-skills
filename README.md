@@ -1,5 +1,7 @@
 ### myblog
 
+- [TypeScript入门指南(基础篇)](https://github.com/USTB-musion/fee-skills/issues/19)
+
 - [Typescript结合React实践](https://github.com/USTB-musion/fee-skills/issues/2)
 
 - [函数化的React Hooks](https://github.com/USTB-musion/fee-skills/issues/3)
