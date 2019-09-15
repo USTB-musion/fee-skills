@@ -1,5 +1,7 @@
 ### myblog
 
+- [聊一聊前端算法面试——递归](https://github.com/USTB-musion/fee-skills/issues/22)
+
 - [聊一聊前端算法面试——二分查找](https://github.com/USTB-musion/fee-skills/issues/21)
 
 - [聊一聊前端算法面试——链表和数组](https://github.com/USTB-musion/fee-skills/issues/20)
