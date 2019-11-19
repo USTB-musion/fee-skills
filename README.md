@@ -1,7 +1,5 @@
 ### myblog
 
-- [理解oAuth2协议-PDF](https://github.com/USTB-musion/fee-skills/blob/master/algorithm/%E7%90%86%E8%A7%A3oAuth2%E5%8D%8F%E8%AE%AE.pdf)
-
 - [理解oAuth2协议](https://github.com/USTB-musion/fee-skills/issues/24)
 
 - [聊一聊前端算法面试——动态规划](https://github.com/USTB-musion/fee-skills/issues/23)
