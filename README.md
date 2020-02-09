@@ -1,5 +1,7 @@
 ### myblog
 
+- [TypeScript的索引类型和映射类型](https://github.com/USTB-musion/fee-skills/issues/25)
+
 - [理解oAuth2协议](https://github.com/USTB-musion/fee-skills/issues/24)
 
 - [聊一聊前端算法面试——动态规划](https://github.com/USTB-musion/fee-skills/issues/23)
